@@ -29,7 +29,7 @@ But, who wants to deal with that, amirite? So: `tab` to have the terminal return
 You are in Vim ~~(my condolences)~~. Type `:q!` (or an equivalent cmd, if you are a ProGamer:tm: Vim user). This command will allow you to exit Vim (~~Horray, you are free from the confines of that malbogian hell!)~~. Afterward, `cat` the flag as usual.
 
 ### Floor 7:
-Run `cat ./flag.txt` (obtained from the hint in README) to return the flag & \~win\~!.
+Run `cat ./flag.txt` (obtained from the hint in README) to return the flag & \~win\~!
 <br>
 *(Note: I initially just copied the instructions from the README & called it a day, however upon writing this, I wasn't quite satisfied with this conclusion.. I was curious as to \~why\~ this worked. Looking at level 7's system more, I noticed that it was possible due to the fact that its root directory was exposed(?!) for my login creds. Prooobably not good for their system's security, but (lucky for me) this system's security is not my problem >:) )*
 

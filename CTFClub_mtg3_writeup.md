@@ -1,4 +1,4 @@
 # Writeup for CTF Club Challenge #3
-## Title: 
+## Title: super_memory
 
 ### (Start Placeholder)

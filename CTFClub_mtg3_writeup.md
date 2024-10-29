@@ -27,8 +27,7 @@ So, with that being said: After you solve the main challenge & unlock all the ga
 Another way to explain this:
 The buffer for the wallet can be represented as 0000. 
 So:
-- for d the buffer went from 0 0 0 0 to 
-- 0 0 0 100. 
+- for d the buffer went from 0 0 0 0 to 0 0 0 100. 
 - c added 0 0 99 100 
 - a added 0 97 99 100
 - b added 98 97 99 100 

@@ -34,7 +34,6 @@
 `git blame creds_level2.txt | grep -v "imacybercriminal"`- this will reveal both the correct creds and the flag, and allow us to progress to the next flag
 
 ### Level 6
-part 6
 1) ssh into the new level with the creds from prior
 2) once you're on the branch, cat the `secret_plan.txt` file for a hint
 3) `git reflog` to show all previous changes on the whole git repo; this will reveal the hash for the prior commits on the file
